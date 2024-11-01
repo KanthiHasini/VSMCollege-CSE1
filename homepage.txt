@@ -1,3 +1,7 @@
 product list
 add to cart
 wishlist
+profile info
+sorting
+filtering
+some other options
