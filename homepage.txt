@@ -3,3 +3,6 @@ add to cart
 wishlist
 profile info
 sorting
+filtering 
+checkout page
+logout
