@@ -1,0 +1,8 @@
+signin
+signup
+login button
+cancel button
+ok 
+cancel
+username
+password
